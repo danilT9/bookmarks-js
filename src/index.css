@@ -76,3 +76,8 @@ button.delete {
 button.delete:hover {
   background-color: #c82333;
 }
+
+img {
+  width: 400px;
+  height: 200px;
+}
